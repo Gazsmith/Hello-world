@@ -1,2 +1,5 @@
 # Hello-world
-Opening projects
+
+Hi, newbie developer here!
+
+Just setting out on my journey into web development.
